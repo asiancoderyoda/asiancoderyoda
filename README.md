@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 Reach me to **avigyanbhaktacontaigmail.com**
+- 📫 Reach me to **avigyanbhaktacontai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
