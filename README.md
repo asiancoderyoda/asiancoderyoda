@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 Reach me to **avigyanbhaktacontai@gmail.com**
+- 📫 Reach me to **avigyan.bhakta@mu-zero.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
