@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next js project**
 
-- 🌱 I’m currently learning **Next js, GraphQl and TypeScript**
+- 🌱 I’m currently learning **Tensorflow and tensorflow.js**
 
 - 💬 Ask me about **MERN Stack**
 
