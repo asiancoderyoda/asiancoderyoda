@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Avigyan Bhakta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Next js project**
+- 🔭 I’m currently building **Next Gen Transportation Management System**
 
-- 🌱 I’m currently learning **Tensorflow and tensorflow.js**
+- 🌱 I’m currently learning **Code as Infrastructure with Terraform**
 
 - 💬 Ask me about **MERN Stack**
 
