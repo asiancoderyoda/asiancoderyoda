@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Code as Infrastructure with Terraform**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Node, Typescript, MongoDb and Golang**
 
 - 📫 Reach me to **abhakta@cargomatic.com**
 
